@@ -1,0 +1,23 @@
+Assignment 1
+Name-Meghna Das
+1.	What is your understanding of block chain?
+Block chain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A block chain is a 
+constantly growing ledger that keeps a permanent record of all the transactions that have taken place in a secure, chronological and immutable way in a 
+decentralised distributed network.
+2.	What is the core problem block chain trying to solve?
+Block chain is trying to solve the problem of International banking crisis that came with the collapse of the investment in 2008. 
+Block chain provides security and authenticity over these problem.
+3.	What are the few features block chain will give you?
+•	Immutability
+•	Decentralized Technology
+•	Enhanced Security
+•	Distributed Ledgers
+•	Consensus.
+•	Faster Settlement.
+4.	What all things does a block chain contain?
+Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data, Mining key and Block Number.
+5.	How the verifiability of the block chain has been attained?
+ Each and every person involved in the group will check the hash provided. If the hash of all the participants is the same, 
+ then the data is similar to one another. But if the hash of one of the participants is different, then we can cross-check what was the 
+ difference of the data which was leading to a different hash
+
