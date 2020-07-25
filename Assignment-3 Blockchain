@@ -1,0 +1,15 @@
+pragma solidity >=0.4.17<0.7.0;
+
+contract Land{
+    string owneroftheland;
+    
+    function Land(string newOwner) public{
+        owneroftheland= newOwner;
+    }
+    function setdetails(string newOwner)public{
+        owneroftheland=newOwner;
+    }
+    function getdetails() public view returns(string){
+        return(owneroftheland);
+    }
+}
